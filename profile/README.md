@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.gg/theatronmc"><img src="https://img.shields.io/badge/Discord-Join%20community-5865F2?logo=discord&logoColor=white" alt="Join the Theatron Discord"></a>
+</p>
+
+<p align="center">
   <a href="https://www.theatronmc.com/">Explore Theatron</a> ·
   <a href="https://app.theatronmc.com/register">Start free</a> ·
   <a href="https://www.theatronmc.com/en/getting-started">How it works</a>
@@ -43,9 +47,26 @@
   </tr>
 </table>
 
-## Open source is coming
+## See it happen
 
-Theatron is already a working product. We are preparing its open source release; the product code and self-hosting instructions are **not public yet**. This organization will host the repositories, documentation, and contribution guidance as they become ready.
+A short clip from the live site shows a catalogue NPC going from the panel into a Paper server. Select the image to play the video.
+
+<p align="center">
+  <a href="https://www.theatronmc.com/mini-clips/landing/npc-catalog.mp4">
+    <img src="https://www.theatronmc.com/mini-clips/landing/npc-catalog-poster.jpg" alt="Play the Theatron NPC demo: from panel to Minecraft" width="560">
+  </a>
+</p>
+
+## The open-source path
+
+Theatron is already a working hosted product. We are preparing its open-source release; the product code, license and self-hosting instructions are **not public yet**. These repositories currently contain scope documentation, not installable releases:
+
+| Repository | Planned role |
+| --- | --- |
+| [theatron](https://github.com/theatronmc/theatron) | Core engine, panel, Paper plugin and self-host stack |
+| [launcher](https://github.com/theatronmc/launcher) | Desktop companion for local servers |
+| [extension-template](https://github.com/theatronmc/extension-template) | Starter for independent extensions |
+| [extension-registry](https://github.com/theatronmc/extension-registry) | Reviewed community extension index |
 
 Theatron grew out of the [Apeyron Games](https://apeyron.games) community and is built by [Apeyron](https://apeyron.it).
 
