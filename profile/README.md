@@ -57,18 +57,18 @@ A short clip from the live site shows a catalogue NPC going from the panel into 
   </a>
 </p>
 
-## The open-source path
+## Repositories
 
-Theatron is already a working hosted product. We are preparing its open-source release; the product code, license and self-hosting instructions are **not public yet**. The product repositories currently contain scope documentation, and the docs repository contains a Starlight starter. There is no installable release:
+The product repositories currently contain READMEs; the documentation site has source code. Self-host installation files and product source releases are not available yet.
 
-| Repository | Planned role |
+| Repository | Role |
 | --- | --- |
 | [theatron](https://github.com/theatronmc/theatron) | Core engine, panel, Paper plugin and self-host stack |
 | [launcher](https://github.com/theatronmc/launcher) | Desktop companion for local servers |
-| [relay](https://github.com/theatronmc/relay) | Optional Rust multiplayer address service; source release pending |
+| [relay](https://github.com/theatronmc/relay) | Optional Rust multiplayer address service |
 | [extension-template](https://github.com/theatronmc/extension-template) | Starter for independent extensions |
 | [extension-registry](https://github.com/theatronmc/extension-registry) | Reviewed community extension index |
-| [docs](https://github.com/theatronmc/docs) | Astro Starlight documentation site; release and installation guides are pending |
+| [docs](https://github.com/theatronmc/docs) | Astro Starlight documentation site |
 
 Theatron grew out of the [Apeyron Games](https://apeyron.games) community and is built by [Apeyron](https://apeyron.it).
 
