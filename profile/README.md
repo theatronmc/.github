@@ -65,6 +65,7 @@ Theatron is already a working hosted product. We are preparing its open-source r
 | --- | --- |
 | [theatron](https://github.com/theatronmc/theatron) | Core engine, panel, Paper plugin and self-host stack |
 | [launcher](https://github.com/theatronmc/launcher) | Desktop companion for local servers |
+| [relay](https://github.com/theatronmc/relay) | Optional Rust multiplayer address service; source release pending |
 | [extension-template](https://github.com/theatronmc/extension-template) | Starter for independent extensions |
 | [extension-registry](https://github.com/theatronmc/extension-registry) | Reviewed community extension index |
 | [docs](https://github.com/theatronmc/docs) | Astro Starlight documentation site; release and installation guides are pending |
